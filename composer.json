@@ -1,0 +1,20 @@
+{
+    "name": "zwcway/payments",
+    "description": "",
+    "authors": [
+        {
+            "name": "zwcway",
+            "email": "zwcway@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Zwcway\\Payments\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
